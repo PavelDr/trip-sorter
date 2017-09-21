@@ -1,0 +1,15 @@
+{
+  "name": "PavelDr/trip-sorter",
+  "description": "An API that lets you sort this kind of list and present back a description of how to complete your journey.",
+  "keywords": ["trip-sorter"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dranichnikov Pavel",
+      "email": "paveld08@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"PavelDr\\TripSorter\\": "src/"}
+  }
+}
