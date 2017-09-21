@@ -4,8 +4,6 @@
 
 Make sure you have [Composer](https://getcomposer.org/doc/00-intro.md#installation-nix) installed
 
-Extract the ZIP file in the webroot of your web server, e.g. C:\wamp\www
-
 Navigate to the trip-sorter directory.
 ```
 cd trip-sorter
